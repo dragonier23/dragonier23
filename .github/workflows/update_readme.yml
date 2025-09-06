@@ -24,10 +24,14 @@ jobs:
       - name: Update README
         run: npm run update_readme
 
-      - name: Commit and push if changed
+      - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update XKCD" || echo "No changes to commit"
-          git push
+          git commit --allow-empty -m "chore: update XKCD"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
