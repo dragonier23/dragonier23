@@ -15,5 +15,5 @@ welcome to my github profile! i'm xavier, a undergrad at the univeristy of cambr
 Here's today's XKCD comic: 
 
 <!-- XKCD -->
-![Dimensional Lumber Tape Measure](https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png)
+![Chess Variant](https://imgs.xkcd.com/comics/chess_variant.png)
 <!-- END XKCD -->
