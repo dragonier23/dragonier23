@@ -15,5 +15,5 @@ welcome to my github profile! i'm xavier, a undergrad at the univeristy of cambr
 Here's today's XKCD comic: 
 
 <!-- XKCD -->
-![Chess Variant](https://imgs.xkcd.com/comics/chess_variant.png)
+![Biology Department](https://imgs.xkcd.com/comics/biology_department.png)
 <!-- END XKCD -->
