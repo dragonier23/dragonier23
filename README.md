@@ -15,5 +15,5 @@ welcome to my github profile! i'm xavier, a undergrad at the univeristy of cambr
 Here's today's XKCD comic: 
 
 <!-- XKCD -->
-![Biology Department](https://imgs.xkcd.com/comics/biology_department.png)
+![Mantle Model](https://imgs.xkcd.com/comics/mantle_model.png)
 <!-- END XKCD -->
