@@ -15,5 +15,5 @@ welcome to my github profile! i'm xavier, a undergrad at the univeristy of cambr
 Here's today's XKCD comic: 
 
 <!-- XKCD -->
-![<City>-Style Pizza](https://imgs.xkcd.com/comics/city_style_pizza.png)
+![Question Mark](https://imgs.xkcd.com/comics/question_mark.png)
 <!-- END XKCD -->
