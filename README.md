@@ -15,5 +15,5 @@ welcome to my github profile! i'm xavier, a undergrad at the univeristy of cambr
 Here's today's XKCD comic: 
 
 <!-- XKCD -->
-![Phase Changes](https://imgs.xkcd.com/comics/phase_changes.png)
+![Piercing](https://imgs.xkcd.com/comics/piercing.png)
 <!-- END XKCD -->
