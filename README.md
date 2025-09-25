@@ -15,5 +15,5 @@ welcome to my github profile! i'm xavier, a undergrad at the univeristy of cambr
 Here's today's XKCD comic: 
 
 <!-- XKCD -->
-![Piercing](https://imgs.xkcd.com/comics/piercing.png)
+![Fantastic Four](https://imgs.xkcd.com/comics/fantastic_four.png)
 <!-- END XKCD -->
