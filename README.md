@@ -8,11 +8,10 @@
     \|__|\|__|\|_______|\|_______|\|_______|\|_______|
                                                       
                                                       
-welcome to my github profile! i'm xavier, a undergrad at the univeristy of cambridge
-```
+welcome to my github profile! i'm xavier, a undergrad at the university of cambridge
 
------ 
 Here's today's XKCD comic: 
+```
 
 <!-- XKCD -->
 ![Hiking](https://imgs.xkcd.com/comics/hiking.png)
