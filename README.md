@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Hiking](https://imgs.xkcd.com/comics/hiking.png)
+![100% All Achievements](https://imgs.xkcd.com/comics/100_all_achievements.png)
 <!-- END XKCD -->
