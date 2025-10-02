@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![100% All Achievements](https://imgs.xkcd.com/comics/100_all_achievements.png)
+![Measure Twice, Cut Once](https://imgs.xkcd.com/comics/measure_twice_cut_once.png)
 <!-- END XKCD -->
