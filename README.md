@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Measure Twice, Cut Once](https://imgs.xkcd.com/comics/measure_twice_cut_once.png)
+![Ping](https://imgs.xkcd.com/comics/ping.png)
 <!-- END XKCD -->
