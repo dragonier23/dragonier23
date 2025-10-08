@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Ping](https://imgs.xkcd.com/comics/ping.png)
+![Window Screen](https://imgs.xkcd.com/comics/window_screen.png)
 <!-- END XKCD -->
