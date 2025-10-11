@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Skateboard](https://imgs.xkcd.com/comics/skateboard.png)
+![Hot Water Balloon](https://imgs.xkcd.com/comics/hot_water_balloon.png)
 <!-- END XKCD -->
