@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Hot Water Balloon](https://imgs.xkcd.com/comics/hot_water_balloon.png)
+![Physics Insight](https://imgs.xkcd.com/comics/physics_insight.png)
 <!-- END XKCD -->
