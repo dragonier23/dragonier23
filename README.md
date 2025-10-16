@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Physics Insight](https://imgs.xkcd.com/comics/physics_insight.png)
+![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)
 <!-- END XKCD -->
