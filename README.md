@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)
+![Planetary Rings](https://imgs.xkcd.com/comics/planetary_rings.png)
 <!-- END XKCD -->
