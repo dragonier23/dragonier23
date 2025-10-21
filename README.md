@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Planetary Rings](https://imgs.xkcd.com/comics/planetary_rings.png)
+![Emperor Palpatine](https://imgs.xkcd.com/comics/emperor_palpatine.png)
 <!-- END XKCD -->
