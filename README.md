@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Emperor Palpatine](https://imgs.xkcd.com/comics/emperor_palpatine.png)
+![Shielding Chart](https://imgs.xkcd.com/comics/shielding_chart.png)
 <!-- END XKCD -->
