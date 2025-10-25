@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Shielding Chart](https://imgs.xkcd.com/comics/shielding_chart.png)
+![Continents](https://imgs.xkcd.com/comics/continents.png)
 <!-- END XKCD -->
