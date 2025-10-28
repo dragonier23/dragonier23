@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Continents](https://imgs.xkcd.com/comics/continents.png)
+![Document Forgery](https://imgs.xkcd.com/comics/document_forgery.png)
 <!-- END XKCD -->
