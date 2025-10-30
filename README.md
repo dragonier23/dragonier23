@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Document Forgery](https://imgs.xkcd.com/comics/document_forgery.png)
+![Airspeed](https://imgs.xkcd.com/comics/airspeed.png)
 <!-- END XKCD -->
