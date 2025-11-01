@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Airspeed](https://imgs.xkcd.com/comics/airspeed.png)
+![Heart Mountain](https://imgs.xkcd.com/comics/heart_mountain.png)
 <!-- END XKCD -->
