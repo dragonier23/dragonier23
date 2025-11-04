@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Heart Mountain](https://imgs.xkcd.com/comics/heart_mountain.png)
+![Repair Video](https://imgs.xkcd.com/comics/repair_video.png)
 <!-- END XKCD -->
