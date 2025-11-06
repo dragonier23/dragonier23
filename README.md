@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Repair Video](https://imgs.xkcd.com/comics/repair_video.png)
+![Metric Tip](https://imgs.xkcd.com/comics/metric_tip.png)
 <!-- END XKCD -->
