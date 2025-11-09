@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Metric Tip](https://imgs.xkcd.com/comics/metric_tip.png)
+![Earthquake Prediction Flowchart](https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png)
 <!-- END XKCD -->
