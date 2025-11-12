@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Earthquake Prediction Flowchart](https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png)
+![Big and Little Spoons](https://imgs.xkcd.com/comics/big_and_little_spoons.png)
 <!-- END XKCD -->
