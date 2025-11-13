@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Big and Little Spoons](https://imgs.xkcd.com/comics/big_and_little_spoons.png)
+![Car Size](https://imgs.xkcd.com/comics/car_size.png)
 <!-- END XKCD -->
