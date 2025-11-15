@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Car Size](https://imgs.xkcd.com/comics/car_size.png)
+![Beam Dump](https://imgs.xkcd.com/comics/beam_dump.png)
 <!-- END XKCD -->
