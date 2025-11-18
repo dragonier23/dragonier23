@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Beam Dump](https://imgs.xkcd.com/comics/beam_dump.png)
+![EPIRBs](https://imgs.xkcd.com/comics/epirbs.png)
 <!-- END XKCD -->
