@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![EPIRBs](https://imgs.xkcd.com/comics/epirbs.png)
+![Service Outage](https://imgs.xkcd.com/comics/service_outage.png)
 <!-- END XKCD -->
