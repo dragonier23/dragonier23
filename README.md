@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Service Outage](https://imgs.xkcd.com/comics/service_outage.png)
+![Geologic Core Sample](https://imgs.xkcd.com/comics/geologic_core_sample.png)
 <!-- END XKCD -->
