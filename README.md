@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Geologic Core Sample](https://imgs.xkcd.com/comics/geologic_core_sample.png)
+![Fifteen Years](https://imgs.xkcd.com/comics/fifteen_years.png)
 <!-- END XKCD -->
