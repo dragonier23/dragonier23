@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Fifteen Years](https://imgs.xkcd.com/comics/fifteen_years.png)
+![Satellite Imagery](https://imgs.xkcd.com/comics/satellite_imagery.png)
 <!-- END XKCD -->
