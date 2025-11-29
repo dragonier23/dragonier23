@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Satellite Imagery](https://imgs.xkcd.com/comics/satellite_imagery.png)
+![Bridge Clearance](https://imgs.xkcd.com/comics/bridge_clearance.png)
 <!-- END XKCD -->
