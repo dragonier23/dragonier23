@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Bridge Clearance](https://imgs.xkcd.com/comics/bridge_clearance.png)
+![Website Task Flowchart](https://imgs.xkcd.com/comics/website_task_flowchart.png)
 <!-- END XKCD -->
