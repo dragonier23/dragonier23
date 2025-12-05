@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Website Task Flowchart](https://imgs.xkcd.com/comics/website_task_flowchart.png)
+![Inverted Catenaries](https://imgs.xkcd.com/comics/inverted_catenaries.png)
 <!-- END XKCD -->
