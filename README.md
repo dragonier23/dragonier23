@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Inverted Catenaries](https://imgs.xkcd.com/comics/inverted_catenaries.png)
+![Chessboard Alignment](https://imgs.xkcd.com/comics/chessboard_alignment.png)
 <!-- END XKCD -->
