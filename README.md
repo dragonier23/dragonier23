@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Chessboard Alignment](https://imgs.xkcd.com/comics/chessboard_alignment.png)
+![Hyperacute Interdynamics](https://imgs.xkcd.com/comics/hyperacute_interdynamics.png)
 <!-- END XKCD -->
