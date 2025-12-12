@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Hyperacute Interdynamics](https://imgs.xkcd.com/comics/hyperacute_interdynamics.png)
+![Fishing](https://imgs.xkcd.com/comics/fishing.png)
 <!-- END XKCD -->
