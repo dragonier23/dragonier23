@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Fishing](https://imgs.xkcd.com/comics/fishing.png)
+![Apples](https://imgs.xkcd.com/comics/apples.png)
 <!-- END XKCD -->
