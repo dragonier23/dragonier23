@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Apples](https://imgs.xkcd.com/comics/apples.png)
+![Jumping Frog Radius](https://imgs.xkcd.com/comics/jumping_frog_radius.png)
 <!-- END XKCD -->
