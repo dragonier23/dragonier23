@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Jumping Frog Radius](https://imgs.xkcd.com/comics/jumping_frog_radius.png)
+![Telescope Types](https://imgs.xkcd.com/comics/telescope_types.png)
 <!-- END XKCD -->
