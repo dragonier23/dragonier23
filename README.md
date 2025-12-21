@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Telescope Types](https://imgs.xkcd.com/comics/telescope_types.png)
+![Pole Vault Pole](https://imgs.xkcd.com/comics/pole_vault_pole.png)
 <!-- END XKCD -->
