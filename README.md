@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Pole Vault Pole](https://imgs.xkcd.com/comics/pole_vault_pole.png)
+![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)
 <!-- END XKCD -->
