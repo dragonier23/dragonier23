@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)
+![Sauropods](https://imgs.xkcd.com/comics/sauropods.png)
 <!-- END XKCD -->
