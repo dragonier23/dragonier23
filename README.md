@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Sauropods](https://imgs.xkcd.com/comics/sauropods.png)
+![Truly Universal Outlet](https://imgs.xkcd.com/comics/truly_universal_outlet.png)
 <!-- END XKCD -->
