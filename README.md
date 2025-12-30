@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Truly Universal Outlet](https://imgs.xkcd.com/comics/truly_universal_outlet.png)
+![High Altitude Cooking Instructions](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
 <!-- END XKCD -->
