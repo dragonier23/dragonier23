@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![High Altitude Cooking Instructions](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
+![Anyone Else Here](https://imgs.xkcd.com/comics/anyone_else_here.png)
 <!-- END XKCD -->
