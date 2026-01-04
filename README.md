@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Anyone Else Here](https://imgs.xkcd.com/comics/anyone_else_here.png)
+![Conic Sections](https://imgs.xkcd.com/comics/conic_sections.png)
 <!-- END XKCD -->
