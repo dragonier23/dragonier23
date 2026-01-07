@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Conic Sections](https://imgs.xkcd.com/comics/conic_sections.png)
+![Tensegrity](https://imgs.xkcd.com/comics/tensegrity.png)
 <!-- END XKCD -->
