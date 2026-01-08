@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Tensegrity](https://imgs.xkcd.com/comics/tensegrity.png)
+![Superstition](https://imgs.xkcd.com/comics/superstition.png)
 <!-- END XKCD -->
