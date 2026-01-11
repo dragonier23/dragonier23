@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Superstition](https://imgs.xkcd.com/comics/superstition.png)
+![Planetary Alignment](https://imgs.xkcd.com/comics/planetary_alignment.png)
 <!-- END XKCD -->
