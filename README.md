@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Planetary Alignment](https://imgs.xkcd.com/comics/planetary_alignment.png)
+![Sailing Rigs](https://imgs.xkcd.com/comics/sailing_rigs.png)
 <!-- END XKCD -->
