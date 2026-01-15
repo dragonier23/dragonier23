@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Sailing Rigs](https://imgs.xkcd.com/comics/sailing_rigs.png)
+![16-Part Epoxy](https://imgs.xkcd.com/comics/16_part_epoxy.png)
 <!-- END XKCD -->
