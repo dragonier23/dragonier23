@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![16-Part Epoxy](https://imgs.xkcd.com/comics/16_part_epoxy.png)
+![International Station](https://imgs.xkcd.com/comics/international_station.png)
 <!-- END XKCD -->
