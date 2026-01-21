@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![International Station](https://imgs.xkcd.com/comics/international_station.png)
+![Aurora Coolness](https://imgs.xkcd.com/comics/aurora_coolness.png)
 <!-- END XKCD -->
