@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Aurora Coolness](https://imgs.xkcd.com/comics/aurora_coolness.png)
+![Cost Savings](https://imgs.xkcd.com/comics/cost_savings.png)
 <!-- END XKCD -->
