@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Cost Savings](https://imgs.xkcd.com/comics/cost_savings.png)
+![Double-Pronged Extension Cord](https://imgs.xkcd.com/comics/double_pronged_extension_cord.png)
 <!-- END XKCD -->
