@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Double-Pronged Extension Cord](https://imgs.xkcd.com/comics/double_pronged_extension_cord.png)
+![Early Arthropods](https://imgs.xkcd.com/comics/early_arthropods.png)
 <!-- END XKCD -->
