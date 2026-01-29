@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Early Arthropods](https://imgs.xkcd.com/comics/early_arthropods.png)
+![Chemical Formula](https://imgs.xkcd.com/comics/chemical_formula.png)
 <!-- END XKCD -->
