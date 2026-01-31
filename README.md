@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Chemical Formula](https://imgs.xkcd.com/comics/chemical_formula.png)
+![Proof Without Content](https://imgs.xkcd.com/comics/proof_without_content.png)
 <!-- END XKCD -->
