@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Proof Without Content](https://imgs.xkcd.com/comics/proof_without_content.png)
+![Groundhog Day Meaning](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
 <!-- END XKCD -->
