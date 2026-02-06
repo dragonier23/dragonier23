@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Groundhog Day Meaning](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
+![Binary Star](https://imgs.xkcd.com/comics/binary_star.png)
 <!-- END XKCD -->
