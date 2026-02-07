@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Binary Star](https://imgs.xkcd.com/comics/binary_star.png)
+![Dinosaurs And Non-Dinosaurs](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
 <!-- END XKCD -->
