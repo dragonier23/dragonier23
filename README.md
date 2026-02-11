@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Dinosaurs And Non-Dinosaurs](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
+![Carbon Dating](https://imgs.xkcd.com/comics/carbon_dating.png)
 <!-- END XKCD -->
