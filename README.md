@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Carbon Dating](https://imgs.xkcd.com/comics/carbon_dating.png)
+![Installation](https://imgs.xkcd.com/comics/installation.png)
 <!-- END XKCD -->
