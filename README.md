@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Installation](https://imgs.xkcd.com/comics/installation.png)
+![Bad Map Projection: Zero Declination](https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png)
 <!-- END XKCD -->
