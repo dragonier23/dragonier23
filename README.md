@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![SNEWS](https://imgs.xkcd.com/comics/snews.png)
+![Plums](https://imgs.xkcd.com/comics/plums.png)
 <!-- END XKCD -->
