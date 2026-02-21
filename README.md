@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Plums](https://imgs.xkcd.com/comics/plums.png)
+![Eliminating the Impossible](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)
 <!-- END XKCD -->
