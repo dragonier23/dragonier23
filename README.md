@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Eliminating the Impossible](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)
+![Amperage](https://imgs.xkcd.com/comics/amperage.png)
 <!-- END XKCD -->
