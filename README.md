@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Amperage](https://imgs.xkcd.com/comics/amperage.png)
+![Little Red Dots](https://imgs.xkcd.com/comics/little_red_dots.png)
 <!-- END XKCD -->
