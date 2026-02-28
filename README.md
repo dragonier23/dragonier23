@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Little Red Dots](https://imgs.xkcd.com/comics/little_red_dots.png)
+![Dental Formulas](https://imgs.xkcd.com/comics/dental_formulas.png)
 <!-- END XKCD -->
