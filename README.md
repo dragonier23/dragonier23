@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Dental Formulas](https://imgs.xkcd.com/comics/dental_formulas.png)
+![Electric Vehicles](https://imgs.xkcd.com/comics/electric_vehicles.png)
 <!-- END XKCD -->
