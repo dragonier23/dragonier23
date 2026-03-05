@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Electric Vehicles](https://imgs.xkcd.com/comics/electric_vehicles.png)
+![Solar Warning](https://imgs.xkcd.com/comics/solar_warning.png)
 <!-- END XKCD -->
