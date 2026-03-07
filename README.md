@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Solar Warning](https://imgs.xkcd.com/comics/solar_warning.png)
+![Bazookasaurus](https://imgs.xkcd.com/comics/bazookasaurus.png)
 <!-- END XKCD -->
