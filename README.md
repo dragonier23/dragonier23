@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Bazookasaurus](https://imgs.xkcd.com/comics/bazookasaurus.png)
+![Home Remedies](https://imgs.xkcd.com/comics/home_remedies.png)
 <!-- END XKCD -->
