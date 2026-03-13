@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Home Remedies](https://imgs.xkcd.com/comics/home_remedies.png)
+![Subduction Retrieval](https://imgs.xkcd.com/comics/subduction_retrieval.png)
 <!-- END XKCD -->
