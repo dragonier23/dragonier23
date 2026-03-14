@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Subduction Retrieval](https://imgs.xkcd.com/comics/subduction_retrieval.png)
+![Planets and Bright Stars](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)
 <!-- END XKCD -->
