@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Planets and Bright Stars](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)
+![Rotational Gravity](https://imgs.xkcd.com/comics/rotational_gravity.png)
 <!-- END XKCD -->
