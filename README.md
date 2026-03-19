@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Rotational Gravity](https://imgs.xkcd.com/comics/rotational_gravity.png)
+![Landscape Features](https://imgs.xkcd.com/comics/landscape_features.png)
 <!-- END XKCD -->
