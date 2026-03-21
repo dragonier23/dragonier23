@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Landscape Features](https://imgs.xkcd.com/comics/landscape_features.png)
+![Star Formation](https://imgs.xkcd.com/comics/star_formation.png)
 <!-- END XKCD -->
