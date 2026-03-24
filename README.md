@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Star Formation](https://imgs.xkcd.com/comics/star_formation.png)
+![Inflation Timeline](https://imgs.xkcd.com/comics/inflation_timeline.png)
 <!-- END XKCD -->
