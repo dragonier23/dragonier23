@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Inflation Timeline](https://imgs.xkcd.com/comics/inflation_timeline.png)
+![Centimeter Wavelengths](https://imgs.xkcd.com/comics/centimeter_wavelengths.png)
 <!-- END XKCD -->
