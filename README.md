@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Centimeter Wavelengths](https://imgs.xkcd.com/comics/centimeter_wavelengths.png)
+![Satellite Pollution](https://imgs.xkcd.com/comics/satellite_pollution.png)
 <!-- END XKCD -->
