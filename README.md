@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Satellite Pollution](https://imgs.xkcd.com/comics/satellite_pollution.png)
+![Home Solar](https://imgs.xkcd.com/comics/home_solar.png)
 <!-- END XKCD -->
