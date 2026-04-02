@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Home Solar](https://imgs.xkcd.com/comics/home_solar.png)
+![Creation](https://imgs.xkcd.com/comics/creation.png)
 <!-- END XKCD -->
