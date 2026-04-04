@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Creation](https://imgs.xkcd.com/comics/creation.png)
+![Day Counter](https://imgs.xkcd.com/comics/day_counter.png)
 <!-- END XKCD -->
