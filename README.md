@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Grammar](https://imgs.xkcd.com/comics/grammar.png)
+![Overton](https://imgs.xkcd.com/comics/overton.png)
 <!-- END XKCD -->
