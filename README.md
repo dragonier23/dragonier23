@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Overton](https://imgs.xkcd.com/comics/overton.png)
+![Lightning](https://imgs.xkcd.com/comics/lightning.png)
 <!-- END XKCD -->
