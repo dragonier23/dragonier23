@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Lightning](https://imgs.xkcd.com/comics/lightning.png)
+![Countdown Standard](https://imgs.xkcd.com/comics/countdown_standard.png)
 <!-- END XKCD -->
