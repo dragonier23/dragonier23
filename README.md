@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Countdown Standard](https://imgs.xkcd.com/comics/countdown_standard.png)
+![Make It Myself](https://imgs.xkcd.com/comics/make_it_myself.png)
 <!-- END XKCD -->
