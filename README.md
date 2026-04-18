@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Make It Myself](https://imgs.xkcd.com/comics/make_it_myself.png)
+![Europa Missions](https://imgs.xkcd.com/comics/europa_missions.png)
 <!-- END XKCD -->
