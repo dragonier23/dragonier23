@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Europa Missions](https://imgs.xkcd.com/comics/europa_missions.png)
+![Types of Board Game](https://imgs.xkcd.com/comics/types_of_board_game.png)
 <!-- END XKCD -->
