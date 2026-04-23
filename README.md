@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Types of Board Game](https://imgs.xkcd.com/comics/types_of_board_game.png)
+![Border Message](https://imgs.xkcd.com/comics/border_message.png)
 <!-- END XKCD -->
