@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Border Message](https://imgs.xkcd.com/comics/border_message.png)
+![Husband and Wife](https://imgs.xkcd.com/comics/husband_and_wife.png)
 <!-- END XKCD -->
