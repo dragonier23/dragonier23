@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Husband and Wife](https://imgs.xkcd.com/comics/husband_and_wife.png)
+![Soniferous Aether](https://imgs.xkcd.com/comics/soniferous_aether.png)
 <!-- END XKCD -->
