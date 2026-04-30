@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Soniferous Aether](https://imgs.xkcd.com/comics/soniferous_aether.png)
+![Simple Machines](https://imgs.xkcd.com/comics/simple_machines.png)
 <!-- END XKCD -->
