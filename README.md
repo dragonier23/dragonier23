@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Simple Machines](https://imgs.xkcd.com/comics/simple_machines.png)
+![Bottle](https://imgs.xkcd.com/comics/bottle.png)
 <!-- END XKCD -->
