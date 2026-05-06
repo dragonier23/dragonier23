@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Bottle](https://imgs.xkcd.com/comics/bottle.png)
+![Horizontal Stabilizers](https://imgs.xkcd.com/comics/horizontal_stabilizers.png)
 <!-- END XKCD -->
