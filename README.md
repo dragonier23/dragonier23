@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Horizontal Stabilizers](https://imgs.xkcd.com/comics/horizontal_stabilizers.png)
+![Aperiodic Table](https://imgs.xkcd.com/comics/aperiodic_table.png)
 <!-- END XKCD -->
