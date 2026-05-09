@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Aperiodic Table](https://imgs.xkcd.com/comics/aperiodic_table.png)
+![Crystal Gazing](https://imgs.xkcd.com/comics/crystal_gazing.png)
 <!-- END XKCD -->
