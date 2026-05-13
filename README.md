@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Crystal Gazing](https://imgs.xkcd.com/comics/crystal_gazing.png)
+![Pullback Drive](https://imgs.xkcd.com/comics/pullback_drive.png)
 <!-- END XKCD -->
