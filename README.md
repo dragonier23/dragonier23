@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Pullback Drive](https://imgs.xkcd.com/comics/pullback_drive.png)
+![Results Age](https://imgs.xkcd.com/comics/results_age.png)
 <!-- END XKCD -->
