@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Results Age](https://imgs.xkcd.com/comics/results_age.png)
+![Speedrun](https://imgs.xkcd.com/comics/speedrun.png)
 <!-- END XKCD -->
