@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Speedrun](https://imgs.xkcd.com/comics/speedrun.png)
+![Particle Census](https://imgs.xkcd.com/comics/particle_census.png)
 <!-- END XKCD -->
