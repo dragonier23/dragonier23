@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Particle Census](https://imgs.xkcd.com/comics/particle_census.png)
+![182.8 Meters](https://imgs.xkcd.com/comics/182_8_meters.png)
 <!-- END XKCD -->
