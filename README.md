@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![182.8 Meters](https://imgs.xkcd.com/comics/182_8_meters.png)
+![Neutrino Project](https://imgs.xkcd.com/comics/neutrino_project.png)
 <!-- END XKCD -->
