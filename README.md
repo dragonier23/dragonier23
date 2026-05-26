@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Neutrino Project](https://imgs.xkcd.com/comics/neutrino_project.png)
+![Flag Design](https://imgs.xkcd.com/comics/flag_design.png)
 <!-- END XKCD -->
