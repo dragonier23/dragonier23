@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Flag Design](https://imgs.xkcd.com/comics/flag_design.png)
+![Time Machine Conversation](https://imgs.xkcd.com/comics/time_machine_conversation.png)
 <!-- END XKCD -->
