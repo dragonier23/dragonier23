@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Time Machine Conversation](https://imgs.xkcd.com/comics/time_machine_conversation.png)
+![Ancestral Genomes](https://imgs.xkcd.com/comics/ancestral_genomes.png)
 <!-- END XKCD -->
