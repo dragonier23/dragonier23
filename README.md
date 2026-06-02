@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Ancestral Genomes](https://imgs.xkcd.com/comics/ancestral_genomes.png)
+![Sunbeam](https://imgs.xkcd.com/comics/sunbeam.png)
 <!-- END XKCD -->
