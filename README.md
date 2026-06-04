@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Sunbeam](https://imgs.xkcd.com/comics/sunbeam.png)
+![Detector](https://imgs.xkcd.com/comics/detector.png)
 <!-- END XKCD -->
