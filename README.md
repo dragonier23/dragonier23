@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Planetary Science](https://imgs.xkcd.com/comics/planetary_science.png)
+![Nostalgia Content](https://imgs.xkcd.com/comics/nostalgia_content.png)
 <!-- END XKCD -->
