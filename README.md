@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Nostalgia Content](https://imgs.xkcd.com/comics/nostalgia_content.png)
+![Beam Pipe](https://imgs.xkcd.com/comics/beam_pipe.png)
 <!-- END XKCD -->
