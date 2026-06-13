@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Beam Pipe](https://imgs.xkcd.com/comics/beam_pipe.png)
+![Plate Flip](https://imgs.xkcd.com/comics/plate_flip.png)
 <!-- END XKCD -->
