@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Plate Flip](https://imgs.xkcd.com/comics/plate_flip.png)
+![Tethys](https://imgs.xkcd.com/comics/tethys.png)
 <!-- END XKCD -->
