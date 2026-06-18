@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Tethys](https://imgs.xkcd.com/comics/tethys.png)
+![Messi](https://imgs.xkcd.com/comics/messi.png)
 <!-- END XKCD -->
