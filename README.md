@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Messi](https://imgs.xkcd.com/comics/messi.png)
+![Side Effect](https://imgs.xkcd.com/comics/side_effect.png)
 <!-- END XKCD -->
