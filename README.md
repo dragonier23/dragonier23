@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Side Effect](https://imgs.xkcd.com/comics/side_effect.png)
+![Sports Commentary](https://imgs.xkcd.com/comics/sports_commentary.png)
 <!-- END XKCD -->
