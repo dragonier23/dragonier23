@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Sports Commentary](https://imgs.xkcd.com/comics/sports_commentary.png)
+![Baryon Asymmetry](https://imgs.xkcd.com/comics/baryon_asymmetry.png)
 <!-- END XKCD -->
