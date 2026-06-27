@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Baryon Asymmetry](https://imgs.xkcd.com/comics/baryon_asymmetry.png)
+![720 Ollie](https://imgs.xkcd.com/comics/720_ollie.png)
 <!-- END XKCD -->
