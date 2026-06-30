@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![720 Ollie](https://imgs.xkcd.com/comics/720_ollie.png)
+![Asteroid Threat](https://imgs.xkcd.com/comics/asteroid_threat.png)
 <!-- END XKCD -->
