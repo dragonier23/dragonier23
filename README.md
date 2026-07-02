@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Asteroid Threat](https://imgs.xkcd.com/comics/asteroid_threat.png)
+![Holes](https://imgs.xkcd.com/comics/holes.png)
 <!-- END XKCD -->
