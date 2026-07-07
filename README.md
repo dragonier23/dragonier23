@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Types of Tornado Alert](https://imgs.xkcd.com/comics/types_of_tornado_alert.png)
+![Offside](https://imgs.xkcd.com/comics/offside.png)
 <!-- END XKCD -->
