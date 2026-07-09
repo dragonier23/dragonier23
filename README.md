@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Offside](https://imgs.xkcd.com/comics/offside.png)
+![Airport Meeting](https://imgs.xkcd.com/comics/airport_meeting.png)
 <!-- END XKCD -->
