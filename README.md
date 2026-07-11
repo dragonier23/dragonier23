@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Airport Meeting](https://imgs.xkcd.com/comics/airport_meeting.png)
+![Toasting Marshmallows](https://imgs.xkcd.com/comics/toasting_marshmallows.png)
 <!-- END XKCD -->
