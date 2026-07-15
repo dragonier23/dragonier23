@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Toasting Marshmallows](https://imgs.xkcd.com/comics/toasting_marshmallows.png)
+![The Princess and the Pea](https://imgs.xkcd.com/comics/the_princess_and_the_pea.png)
 <!-- END XKCD -->
