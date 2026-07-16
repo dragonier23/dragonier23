@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![The Princess and the Pea](https://imgs.xkcd.com/comics/the_princess_and_the_pea.png)
+![Time Change](https://imgs.xkcd.com/comics/time_change.png)
 <!-- END XKCD -->
