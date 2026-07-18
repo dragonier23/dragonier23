@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Time Change](https://imgs.xkcd.com/comics/time_change.png)
+![Latitude and Longitude](https://imgs.xkcd.com/comics/latitude_and_longitude.png)
 <!-- END XKCD -->
