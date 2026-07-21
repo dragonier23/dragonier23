@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Latitude and Longitude](https://imgs.xkcd.com/comics/latitude_and_longitude.png)
+![Arthurian Connector](https://imgs.xkcd.com/comics/arthurian_connector.png)
 <!-- END XKCD -->
