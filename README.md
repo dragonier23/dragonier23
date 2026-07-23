@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Arthurian Connector](https://imgs.xkcd.com/comics/arthurian_connector.png)
+![Calibration Nobel](https://imgs.xkcd.com/comics/calibration_nobel.png)
 <!-- END XKCD -->
