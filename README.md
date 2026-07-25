@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Calibration Nobel](https://imgs.xkcd.com/comics/calibration_nobel.png)
+![Recursive Trucker's Hitch](https://imgs.xkcd.com/comics/recursive_truckers_hitch.png)
 <!-- END XKCD -->
