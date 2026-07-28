@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Recursive Trucker's Hitch](https://imgs.xkcd.com/comics/recursive_truckers_hitch.png)
+![Forth](https://imgs.xkcd.com/comics/forth.png)
 <!-- END XKCD -->
