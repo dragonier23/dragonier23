@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Forth](https://imgs.xkcd.com/comics/forth.png)
+![Vera Rubin Observatory](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
 <!-- END XKCD -->
