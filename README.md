@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Vera Rubin Observatory](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
+![Main Span](https://imgs.xkcd.com/comics/main_span.png)
 <!-- END XKCD -->
