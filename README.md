@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Main Span](https://imgs.xkcd.com/comics/main_span.png)
+![Maze](https://imgs.xkcd.com/comics/maze.png)
 <!-- END XKCD -->
