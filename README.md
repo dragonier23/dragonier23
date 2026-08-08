@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Antiques Roadshow](https://imgs.xkcd.com/comics/antiques_roadshow.png)
+![Trick Play](https://imgs.xkcd.com/comics/trick_play.png)
 <!-- END XKCD -->
