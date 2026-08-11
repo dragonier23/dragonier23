@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Trick Play](https://imgs.xkcd.com/comics/trick_play.png)
+![Size and Lifespan](https://imgs.xkcd.com/comics/size_and_lifespan.png)
 <!-- END XKCD -->
