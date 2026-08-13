@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Size and Lifespan](https://imgs.xkcd.com/comics/size_and_lifespan.png)
+![Geology Building](https://imgs.xkcd.com/comics/geology_building.png)
 <!-- END XKCD -->
