@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Geology Building](https://imgs.xkcd.com/comics/geology_building.png)
+![Accretionary Arc](https://imgs.xkcd.com/comics/accretionary_arc.png)
 <!-- END XKCD -->
