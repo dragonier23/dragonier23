@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Accretionary Arc](https://imgs.xkcd.com/comics/accretionary_arc.png)
+![Perseids](https://imgs.xkcd.com/comics/perseids.png)
 <!-- END XKCD -->
