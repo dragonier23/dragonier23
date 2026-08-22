@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Perseids](https://imgs.xkcd.com/comics/perseids.png)
+![Archery Feat](https://imgs.xkcd.com/comics/archery_feat.png)
 <!-- END XKCD -->
