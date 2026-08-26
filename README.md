@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Archery Feat](https://imgs.xkcd.com/comics/archery_feat.png)
+![Highway Signs](https://imgs.xkcd.com/comics/highway_signs.png)
 <!-- END XKCD -->
