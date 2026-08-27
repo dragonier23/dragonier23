@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Highway Signs](https://imgs.xkcd.com/comics/highway_signs.png)
+![Trade](https://imgs.xkcd.com/comics/trade.png)
 <!-- END XKCD -->
