@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Trade](https://imgs.xkcd.com/comics/trade.png)
+![Launchpad](https://imgs.xkcd.com/comics/launchpad.png)
 <!-- END XKCD -->
