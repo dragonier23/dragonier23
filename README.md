@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Launchpad](https://imgs.xkcd.com/comics/launchpad.png)
+![Geology Class](https://imgs.xkcd.com/comics/geology_class.png)
 <!-- END XKCD -->
