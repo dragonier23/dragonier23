@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Geology Class](https://imgs.xkcd.com/comics/geology_class.png)
+![Handedness](https://imgs.xkcd.com/comics/handedness.png)
 <!-- END XKCD -->
