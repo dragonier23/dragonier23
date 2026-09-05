@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Handedness](https://imgs.xkcd.com/comics/handedness.png)
+![Asteroid Mission](https://imgs.xkcd.com/comics/asteroid_mission.png)
 <!-- END XKCD -->
