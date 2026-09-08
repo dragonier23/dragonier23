@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Asteroid Mission](https://imgs.xkcd.com/comics/asteroid_mission.png)
+![Semaphore](https://imgs.xkcd.com/comics/semaphore.png)
 <!-- END XKCD -->
