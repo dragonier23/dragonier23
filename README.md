@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Semaphore](https://imgs.xkcd.com/comics/semaphore.png)
+![Fault Taunting](https://imgs.xkcd.com/comics/fault_taunting.png)
 <!-- END XKCD -->
