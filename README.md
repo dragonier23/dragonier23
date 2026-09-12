@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Fault Taunting](https://imgs.xkcd.com/comics/fault_taunting.png)
+![OH Scale](https://imgs.xkcd.com/comics/oh_scale.png)
 <!-- END XKCD -->
