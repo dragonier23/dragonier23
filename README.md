@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![OH Scale](https://imgs.xkcd.com/comics/oh_scale.png)
+![Aerospace Flowchart](https://imgs.xkcd.com/comics/aerospace_flowchart.png)
 <!-- END XKCD -->
