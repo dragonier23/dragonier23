@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Aerospace Flowchart](https://imgs.xkcd.com/comics/aerospace_flowchart.png)
+![Summer](https://imgs.xkcd.com/comics/summer.png)
 <!-- END XKCD -->
