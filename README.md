@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Summer](https://imgs.xkcd.com/comics/summer.png)
+![Tyrannosaurus](https://imgs.xkcd.com/comics/tyrannosaurus.png)
 <!-- END XKCD -->
