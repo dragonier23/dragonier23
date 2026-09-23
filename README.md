@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Tyrannosaurus](https://imgs.xkcd.com/comics/tyrannosaurus.png)
+![Stargazing 5](https://imgs.xkcd.com/comics/stargazing_5.png)
 <!-- END XKCD -->
