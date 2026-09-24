@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Stargazing 5](https://imgs.xkcd.com/comics/stargazing_5.png)
+![Voyager Instruments](https://imgs.xkcd.com/comics/voyager_instruments.png)
 <!-- END XKCD -->
