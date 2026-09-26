@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Voyager Instruments](https://imgs.xkcd.com/comics/voyager_instruments.png)
+![Slab Graveyard](https://imgs.xkcd.com/comics/slab_graveyard.png)
 <!-- END XKCD -->
