@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Slab Graveyard](https://imgs.xkcd.com/comics/slab_graveyard.png)
+![Jupiter Icy Moons Explorer](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)
 <!-- END XKCD -->
