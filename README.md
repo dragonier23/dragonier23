@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Jupiter Icy Moons Explorer](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)
+![Ground Effect](https://imgs.xkcd.com/comics/ground_effect.png)
 <!-- END XKCD -->
