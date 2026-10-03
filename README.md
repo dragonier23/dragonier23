@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Ground Effect](https://imgs.xkcd.com/comics/ground_effect.png)
+![Accelerator Energies](https://imgs.xkcd.com/comics/accelerator_energies.png)
 <!-- END XKCD -->
