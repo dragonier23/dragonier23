@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Accelerator Energies](https://imgs.xkcd.com/comics/accelerator_energies.png)
+![Spectrum Allocation](https://imgs.xkcd.com/comics/spectrum_allocation.png)
 <!-- END XKCD -->
