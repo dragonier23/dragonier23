@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Spectrum Allocation](https://imgs.xkcd.com/comics/spectrum_allocation.png)
+![Juice](https://imgs.xkcd.com/comics/juice.png)
 <!-- END XKCD -->
