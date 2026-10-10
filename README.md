@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Juice](https://imgs.xkcd.com/comics/juice.png)
+![Dogcatcher](https://imgs.xkcd.com/comics/dogcatcher.png)
 <!-- END XKCD -->
