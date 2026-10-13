@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Dogcatcher](https://imgs.xkcd.com/comics/dogcatcher.png)
+![Rejected Space Mission Profiles](https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png)
 <!-- END XKCD -->
