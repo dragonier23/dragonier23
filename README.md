@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Rejected Space Mission Profiles](https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png)
+![Planet Database](https://imgs.xkcd.com/comics/planet_database.png)
 <!-- END XKCD -->
