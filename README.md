@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Planet Database](https://imgs.xkcd.com/comics/planet_database.png)
+![Momentum Demonstration](https://imgs.xkcd.com/comics/momentum_demonstration.png)
 <!-- END XKCD -->
