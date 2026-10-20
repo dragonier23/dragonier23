@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Momentum Demonstration](https://imgs.xkcd.com/comics/momentum_demonstration.png)
+![Fusion Device](https://imgs.xkcd.com/comics/fusion_device.png)
 <!-- END XKCD -->
