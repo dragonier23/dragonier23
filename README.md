@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Fusion Device](https://imgs.xkcd.com/comics/fusion_device.png)
+![Vulnerability](https://imgs.xkcd.com/comics/vulnerability.png)
 <!-- END XKCD -->
