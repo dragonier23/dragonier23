@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Vulnerability](https://imgs.xkcd.com/comics/vulnerability.png)
+![Forms of Water](https://imgs.xkcd.com/comics/forms_of_water.png)
 <!-- END XKCD -->
