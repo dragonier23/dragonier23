@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Forms of Water](https://imgs.xkcd.com/comics/forms_of_water.png)
+![Siege Engine](https://imgs.xkcd.com/comics/siege_engine.png)
 <!-- END XKCD -->
