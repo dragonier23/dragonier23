@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Siege Engine](https://imgs.xkcd.com/comics/siege_engine.png)
+![Gravitational Square Wave](https://imgs.xkcd.com/comics/gravitational_square_wave.png)
 <!-- END XKCD -->
