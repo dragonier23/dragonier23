@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Gravitational Square Wave](https://imgs.xkcd.com/comics/gravitational_square_wave.png)
+![Earth Sized Planets](https://imgs.xkcd.com/comics/earth_sized_planets.png)
 <!-- END XKCD -->
