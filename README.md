@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Earth Sized Planets](https://imgs.xkcd.com/comics/earth_sized_planets.png)
+![Elevators](https://imgs.xkcd.com/comics/elevators.png)
 <!-- END XKCD -->
