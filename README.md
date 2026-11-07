@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![House Majority](https://imgs.xkcd.com/comics/house_majority.png)
+![Simulation](https://imgs.xkcd.com/comics/simulation.png)
 <!-- END XKCD -->
