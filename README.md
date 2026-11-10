@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Simulation](https://imgs.xkcd.com/comics/simulation.png)
+![Dragonfly](https://imgs.xkcd.com/comics/dragonfly.png)
 <!-- END XKCD -->
