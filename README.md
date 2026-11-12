@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Dragonfly](https://imgs.xkcd.com/comics/dragonfly.png)
+![Meteor Fear](https://imgs.xkcd.com/comics/meteor_fear.png)
 <!-- END XKCD -->
