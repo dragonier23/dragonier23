@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Meteor Fear](https://imgs.xkcd.com/comics/meteor_fear.png)
+![Ultimate Movie Series](https://imgs.xkcd.com/comics/ultimate_movie_series.png)
 <!-- END XKCD -->
