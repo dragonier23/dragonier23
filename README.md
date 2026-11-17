@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Ultimate Movie Series](https://imgs.xkcd.com/comics/ultimate_movie_series.png)
+![Light-Day](https://imgs.xkcd.com/comics/light_day.png)
 <!-- END XKCD -->
