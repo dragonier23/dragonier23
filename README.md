@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Light-Day](https://imgs.xkcd.com/comics/light_day.png)
+![Voyager Crash](https://imgs.xkcd.com/comics/voyager_crash.png)
 <!-- END XKCD -->
