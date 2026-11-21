@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Voyager Crash](https://imgs.xkcd.com/comics/voyager_crash.png)
+![Plate Maintenance](https://imgs.xkcd.com/comics/plate_maintenance.png)
 <!-- END XKCD -->
