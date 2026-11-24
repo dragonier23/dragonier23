@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Plate Maintenance](https://imgs.xkcd.com/comics/plate_maintenance.png)
+![Ivory Tower Elites](https://imgs.xkcd.com/comics/ivory_tower_elites.png)
 <!-- END XKCD -->
