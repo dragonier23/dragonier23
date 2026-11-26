@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Ivory Tower Elites](https://imgs.xkcd.com/comics/ivory_tower_elites.png)
+![Cesium Atom](https://imgs.xkcd.com/comics/cesium_atom.png)
 <!-- END XKCD -->
