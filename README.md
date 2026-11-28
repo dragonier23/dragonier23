@@ -14,5 +14,5 @@ Here's today's XKCD comic:
 ```
 
 <!-- XKCD -->
-![Cesium Atom](https://imgs.xkcd.com/comics/cesium_atom.png)
+![Tiny Squirrels](https://imgs.xkcd.com/comics/tiny_squirrels.png)
 <!-- END XKCD -->
